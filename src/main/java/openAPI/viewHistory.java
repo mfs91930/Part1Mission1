@@ -21,7 +21,7 @@ public class viewHistory extends HttpServlet {
                 "<h1>위치 히스토리 목록\n" +
                 "</h1>\n" +
                 "<ul>\n" +
-                "    <li><a href=\"http://localhost:8080/Part1Mission1_war_exploded/index.jsp\">홈</a></li>\n" +
+                "    <li><a href=\"Home\">홈</a></li>\n" +
                 "    <li>|</li>\n" +
                 "    <li><a href=\"viewHistory-Servlet\">위치 히스토리 목록</a></li>\n" +
                 "    <li>|</li>\n" +
