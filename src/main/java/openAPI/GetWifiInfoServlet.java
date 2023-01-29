@@ -19,7 +19,7 @@ public class GetWifiInfoServlet extends HttpServlet {
         out.println("</head>");
         out.println("<body>");
         out.println("<div class='page2'><h1>" + message + "</h1>");
-        out.println("<a href = 'http://localhost:8080/Part1Mission1_war_exploded/'>홈 으로 가기</a></div>");
+        out.println("<a href = 'Home'>홈 으로 가기</a></div>");
         out.println("</body></html>");
     }
 
